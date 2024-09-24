@@ -13,6 +13,15 @@ public class Student // model the student raw data
     private String name; // variables private 
    private int sid; // principle "encapsulation"
 private int sem;
+private String studentID;
+
+    public String getStudentID() {
+        return studentID;
+    }
+
+    public void setStudentID(String studentID) {
+        this.studentID = studentID;
+    }
     /**
      * @return the name
      */
