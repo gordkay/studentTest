@@ -4,6 +4,11 @@
  */
 package studentlist;
 
+/**
+ * Copyright © 2024
+ * Date: September 23, 2024
+ */
+
 /** entity 
  *
  * @author sivagamasrinivasan
